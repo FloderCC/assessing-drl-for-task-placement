@@ -2,6 +2,8 @@
 
 ### Repository of the work entitled "Intelligent Task Placement: Assessing the Cost of Deep Reinforcement Learning"
 
+[![DOI](https://zenodo.org/badge/951577011.svg)](https://doi.org/10.5281/zenodo.15054099)
+
 ## Structure
 
 This repository contains the following projects:
